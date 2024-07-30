@@ -35,6 +35,12 @@ Welcome to the Metacrafters ATM! This decentralized application allows users to 
 5. **In your browser running the ``http://localhost:3000/`` URL...**
   - Use the newly added account to be able to use the application.
 
+## Video Demos
+  - [Part 1](https://www.loom.com/share/659acd592bc74ebca6d9165314fadabd?sid=a6ebf7f6-6cf8-436a-9f08-44c4a23a2522).
+  - [Part 2](https://www.loom.com/share/45e265109e994595903704ada0653f02?sid=fcb661ac-d6bf-44f0-92e9-94f090b4efff).
+  - [Part 3](https://www.loom.com/share/4d230125241141d289e68def24a14f7c?sid=d51c479c-2ab4-41e7-9869-0bea88cb9ffa).
+  - [Part 4](https://www.loom.com/share/4eb208f69d8a4be29540f3a4eea92060?sid=54ad4e7b-ba2d-45c3-853d-7e68b0dbbff7).
+
 ### Author
 Franz Gabriel Eleccion
 
